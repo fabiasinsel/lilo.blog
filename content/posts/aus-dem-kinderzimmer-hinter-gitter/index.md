@@ -3,7 +3,7 @@ title = "Aus dem Kinderzimmer hinter Gitter"
 date = "2023-06-15"
 draft = false
 pinned = false
-tags = ["Jugendgefängnis"]
+tags = ["Jugendgefängnis", "Gymnasium"]
 +++
 <!--StartFragment-->
 
