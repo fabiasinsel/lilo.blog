@@ -21,7 +21,7 @@ Im ersten Stock des drei-etagen hohen Gebäudes ist die Jugendabteilung stationi
 
 Von den Eltern verstossen, gelange man auf die Strasse, geriete in die falsche Gruppe, werde beeinflusst und lande in der Drogenszene und der Prostitution. In so einer Situation werde man schnell straffällig und es liege ein Grund zur Verhaftung vor. Bei einer Verhaftung sei auch immer die KESB (Kindes- und Erwachsenenschutzbehörde) direkt involviert, dabei sei das Gefängnis tendenziell die letzte Massnahme. Vor einem Aufenthalt stünden meistens schon mehrere erfolglose Versuche in Sozialhilfeeinrichtungen. Wurde jemand beispielsweise vergewaltigt oder hat psychische Traumata erlitten, könne auch eine Psychiatrieeinweisung in Betracht gezogen werden. Für kleinere, temporäre Zusammenbrüche oder Probleme innerhalb der Abteilung stehe eine Psychologin mindestens einmal pro Woche zur Verfügung, erklärt Frau Zimmermann. 
 
-![](bild1.png "Eine Disziplinarzelle im Regionalgefängnis Thun @Fabiasinsel")
+![Eine Disziplinarzelle im Regionalgefängnis Thun @Fabiasinsel](bild1.png)
 
 Für Notfälle gibt es auch Disziplinarzellen, welche selbstverletzungssicher sind. In diesem mit pinken Keramikplatten bestückten Raum gibt es keine Fenster, keine richtige Toilette, lediglich eine flache Wanne mit einem Abfluss ohne Vorhang, die auch zum Duschen gedacht ist. Bei guter Führung wird die Zelle mit einem Duschvorhang für mehr Sichtschutz und Privatsphäre ausgestattet. Geschlafen wird auf einem 1.20x 2m grossen Block, worauf eine Matratze platziert werden kann. In dieser Zelle würde man 24 Stunden pro Tag überwacht werden und hätte keine Privatsphäre. In die reguläre Zelle kann man dann erst wieder zurück, wenn man die Wärter überzeugt hat, dass es einem wieder gut geht und man sich nicht selbst verletzt. Ausserdem wird als Essen nur Fingerfood serviert. Besteck würde ein zu hohes Risiko darstellen.  
 
@@ -31,9 +31,9 @@ Jeden Tag bekommen die Jugendlichen 3-5 Franken auf ihr eigenes Gefängniskonto 
 
 Auch Insassen unter 16 Jahren werden Zigaretten ausgehändigt, sofern die erziehungsberechtigte Person dem zustimmt. „Rauchen ist hier unser kleinstes Problem“, lacht Frau Zimmermann, „oftmals ist es ein guter Stressabbau.“ Die Zigaretten können in der eigenen Zelle oder auf dem kleinen Hof, der eher einer Garage mit Ping-Pong Tisch ähnelt, geraucht werden. Die Zellen habe zwar eine Lüftung, Fenster können aber keine geöffnet werden. Da man eine Raucherzelle direkt riecht, wird auf die Trennung von Nichtrauchern und Rauchern geachtet.  
 
-![Bild](bild2.png "Einer der Höfe @Fabiasinsel")
+![Einer der Höfe @Fabiasinsel](bild2.png)
 
-![Bild]()
+![]()
 
  <!--StartFragment-->
 
