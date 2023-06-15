@@ -7,9 +7,9 @@ tags = ["Jugendgefängnis"]
 +++
 <!--StartFragment-->
 
-Minderjährig und gewalttätig - was passiert eigentlich mit straffällig gewordenen Jugendlichen? Ein Einblick ins System eines Schweizer Jugendgefängnisses  
+*Minderjährig und gewalttätig - was passiert eigentlich mit straffällig gewordenen Jugendlichen? Ein Einblick ins System eines Schweizer Jugendgefängnisses*  
 
-Eine Reportage von Tatiana Feuz und Fabia Sinsel 
+> Eine Reportage von Tatiana Feuz und Fabia Sinsel 
 
 Ein Aufenthaltsraum mit einer Playstation. Auf dessen Sofa eine mysteriöse Unterhose, die auf Jugendliche hinweist. Direkt daneben Mehrbettzimmer, deren zerkratzte und bemalte Spiegel schon unbrauchbar sind. An der Wand ist der jeweilige Wochenplan zu sehen. Man könnte denken, man befände sich in einem Internat, einem Internat ohne Schule, ohne Wochenende zu Hause, aber einer maximalen Zigarettenausgabe von sechs Stück pro Tag. Zigaretten, die man sich hinter die Ohren klemmt, bevor man dem netten Gefängniswärter auf die Füsse spuckt, ihn beleidigt und zur Strafe in eine Einzelzelle kommt.  
 
