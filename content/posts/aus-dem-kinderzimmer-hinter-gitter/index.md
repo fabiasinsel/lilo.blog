@@ -35,8 +35,6 @@ Auch Insassen unter 16 Jahren werden Zigaretten ausgehändigt, sofern die erzieh
 
 ![]()
 
-
-
 Die Abteilungsleiterin, Andrea Zimmermann, hat Sozialpädagogik in Freiburg studiert und vor der Stelle im Gefängnis in anderen Jugendeinrichtungen gearbeitet. Das Gefängnis eröffnet ihr ein neues interessantes Berufsfeld. Um die strafrechtlichen Komponenten der neuen Stelle besser zu verstehen, studiert sie nebenberuflich momentan Kriminologie. Sie will den Jugendlichen helfen aus dem, wie sie es sagt, “Netz” herauszukommen. Die Jugendlichen sollen lernen, motiviert zu arbeiten und respektvoll zu sein. Dabei äussert sie sich zum Thema ACAB (Ein Aktivismusaudruck; „All cops are bastards“). Sie spricht davon, wie ein junger Mann ihr erzählt habe, dass er in der Jugendabteilung etwas gelernt habe. Er habe gemerkt, Leute gingen mit einem auch anständig und respektvoll um, wenn man selbst mit den Leuten anständig umgeht. Das habe er bei der Polizei probiert und es habe funktioniert. Andrea Zimmermann erläutert genauer: “Natürlich gibt es Polizisten, die ihren Beruf besser durchführen als andere. Jedoch benehmen sich die Jugendlichen und Erwachsene manchmal so schräg, dass sie es selbst nicht einmal merken.”  Was auf jeden Fall schräg ist, ist Menschen auf die Füsse zu spucken. Ausser man will, wie der schon genannte junge Mann, in einer Einzelzelle eingesperrt werden. 
 
 <!--EndFragment-->
