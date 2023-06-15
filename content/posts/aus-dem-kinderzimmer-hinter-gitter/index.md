@@ -7,7 +7,7 @@ tags = ["Jugendgefängnis", "Gymnasium"]
 +++
 <!--StartFragment-->
 
-> Minderjährig und gewalttätig - was passiert eigentlich mit straffällig gewordenen Jugendlichen? Ein Einblick ins System eines Schweizer Jugendgefängnisses  
+> Minderjährig und gewalttätig - was passiert eigentlich mit straffällig gewordenen Jugendlichen? Ein Einblick ins System eines Schweizer Jugendgefängnisses.
 
 *Eine Reportage von Tatiana Feuz und Fabia Sinsel* 
 
