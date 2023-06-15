@@ -4,10 +4,8 @@ draft = false
 image = ""
 description = ""
 +++
-![](/img/default-author.jpg)
+![](fototapeten-strandbild.jpg.jpg)
 
-## My Name
+**Fabia Sinsel**
 
-mail@example.org
-
-Here should be some info about me...
+fabia.sinsel@stud.gyminterlaken.ch
